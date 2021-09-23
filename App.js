@@ -78,7 +78,7 @@ export default function App() {
                   style={{
                     paddingVertical: 5,
                     fontWeight: '800',
-                    color: '#800039',
+                    color: '#800038',
                     fontSize: 23,
                   }}>
                   {userGoogleInfo.user.name}
