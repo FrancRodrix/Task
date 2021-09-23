@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508717896093",
+    "project_id": "tarento-task",
+    "storage_bucket": "tarento-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508717896093:android:169071a2db26ee14af9f74",
+        "android_client_info": {
+          "package_name": "com.grafferstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508717896093-p4o464fke51ijj515rmu23jbpk26ancu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grafferstask",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "508717896093-ami0f6lvjbhekkf9a34lu3946m6olc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcI7VGdziJasJ1HisS5KM_gbDAwXRHC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508717896093-ami0f6lvjbhekkf9a34lu3946m6olc49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
